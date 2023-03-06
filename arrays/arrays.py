@@ -60,3 +60,4 @@ print("The result of the matrix multiplication is {}".format(result_matrix))
 # transpose a matrix
 transposed_matrix = np.transpose(matrix1)
 print("The transposed matrix is {}".format(transposed_matrix))
+
